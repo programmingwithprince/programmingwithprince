@@ -45,6 +45,13 @@
 
 <br>
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmingwithprince&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmingwithprince&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingwithprince&layout=compact&theme=radical" />
+</p>
 <p align="center">
   <img width="1000" src="github-snake.svg" alt="snake animation"/>
 </p>
