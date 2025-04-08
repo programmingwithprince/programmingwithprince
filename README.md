@@ -23,12 +23,14 @@
 
 - ⚡ Fun fact: **I fix bugs better at 2 AM**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prince-programmer" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=programmingwithprince&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmingwithprince&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingwithprince&layout=compact&theme=radical" />
 </p>
+
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
@@ -45,13 +47,7 @@
 
 <br>
 
-## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmingwithprince&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmingwithprince&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmingwithprince&layout=compact&theme=radical" />
-</p>
 <p align="center">
   <img width="1000" src="github-snake.svg" alt="snake animation"/>
 </p>
