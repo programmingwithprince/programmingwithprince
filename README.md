@@ -1,3 +1,4 @@
+<body style="background-color:#212830">
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=programmingwithprince&label=Profile+views&color=0e75b6&style=plastic&abbreviated=true" alt="programmingwithprince" />
@@ -114,3 +115,4 @@
 <p align="center">
   <img width="1000" src="github-snake.svg" alt="snake animation"/>
 </p>
+</body>
