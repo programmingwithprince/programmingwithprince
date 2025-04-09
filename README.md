@@ -1,4 +1,4 @@
-<body style="background-color:#212830">
+<body>
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=programmingwithprince&label=Profile+views&color=0e75b6&style=plastic&abbreviated=true" alt="programmingwithprince" />
