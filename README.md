@@ -45,6 +45,7 @@
 </p>
 
 
+![programmingwithprince github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=programmingwithprince&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
