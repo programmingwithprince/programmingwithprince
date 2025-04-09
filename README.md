@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Python, Web Dev, and cool tech stuff**
 
-- 📫 Reach me at *programmingwithprince@gmail.com*
+- 📫 Reach me at *programmingwithprince1@gmail.com*
 
 - 👨‍💻 All my projects live [here](https://github.com/programmingwithprince)
 
