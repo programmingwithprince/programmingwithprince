@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=programmingwithprince&label=Profile+views&color=0e75b6&style=plastic&abbreviated=true" alt="programmingwithprince" />
 </p>
 
-<h3 align="center">🚀 Developer | 🎮 Gamer | 💻 Tech Lover</h3>
+<h3 align="center">🚀 Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7971E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Self-taught+programmer+from+India;Frontend+and+Backend+developer;Coding+%3D+passion+%2B+fun+%3A)" alt="Typing SVG" />
