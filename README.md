@@ -29,7 +29,7 @@
 
 - 📫 Reach me at *programmingwithprince1@gmail.com*
 
-- 👨‍💻 All my projects live [here](https://github.com/programmingwithprince)
+- 👨‍💻 All my projects live [here](https://github.com/programmingwithprince?tab=repositories)
 
 - 📄 Know more about me soon on my personal website 😉
 
