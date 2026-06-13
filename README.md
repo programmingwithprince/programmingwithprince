@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=programmingwithprince&label=Profile+views&color=0e75b6&style=plastic&abbreviated=true" alt="programmingwithprince" />
 </p>
 
-![GitHub Account Age](https://img.shields.io/badge/dynamic/json?label=Account%20Age&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYOUR_USERNAME_HERE&color=blue&logo=github)
+![GitHub Account Age](https://img.shields.io/badge/dynamic/json?label=Account%20Age&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprogrammingwithprince&color=blue&logo=github)
 
 
 <h3 align="center">🚀 Developer</h3>
